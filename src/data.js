@@ -6,10 +6,6 @@ export const headerData = {
       text: 'Landing',
       links: [
         {
-          text: 'Sass',
-          href: '#',
-        },
-        {
           text: 'Startup',
           href: '#',
         },
